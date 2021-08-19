@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UI Test">
+  <test  name="Test">
+    <classes>
+      <class name="reeasyaskbackendv1.VerifyAdminLinkAndHeaderButton"/>
+      <class name="reeasyaskbackendv1.VerifyWarehouseCreation"/>
+      <class name="reeasyaskbackendv1.VerifyResetPassword"/>
+      <class name="reeasyaskbackendv1.Warehouse_Preview_Edit_Delete"/>
+      <class name="reeasyaskbackendv1.VerifyLogout"></class>
+      <class name="reeasyaskbackendv1.VerifyFileManager"/>
+      <class name="reeasyaskbackendv1.VerifyTitle"/>
+      <class name="reeasyaskbackendv1.VerifyStoreSearch"/>
+      <class name="reeasyaskbackendv1.CategoriesFromcatalogue"/>
+      <class name="reeasyaskbackendv1.VerifyDashboard"/>
+      <class name="reeasyaskbackendv1.VerifyReport"/>
+      <class name="reeasyaskbackendv1.VerifyTicketing"/>
+      <class name="reeasyaskbackendv1.VerifyManufactures"/>
+      <class name="reeasyaskbackendv1.LoginTest"/>
+      <class name="reeasyaskbackendv1.VerifyBackUp"/>
+      <class name="reeasyaskbackendv1.VerifyStoreEntries"/>
+      <class name="reeasyaskbackendv1.VerifyStoreCreation"/>
+      <class name="reeasyaskbackendv1.VerifyCMS"/>
+      <class name="reeasyaskbackendv1.VerifyRegistration"/>
+      <class name="reeasyaskbackendv1.VerifySite"/>
+      <class name="reeasyaskbackendv1.VerifyMyAccount"/>
+      <class name="reeasyaskbackendv1.VerifySettings"/>
+      <class name="reeasyaskbackendv1.VerifyWarehouseEntries"/>
+      <class name="reeasyaskbackendv1.WarehouseSearch"/>
+      <class name="reeasyaskbackendv1.VerifyStorePreviewEditDelete"/>
+      <class name="reeasyaskbackendv1.VerifyMarketing"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
